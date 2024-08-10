@@ -24,7 +24,7 @@ To run the Coffee Shop Time Tracker, you need to have Python installed on your m
 
 1. **Clone the Repository**: If you have Git installed, you can clone this repository using:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Etchreed/coffetimetracker
 
 Or download the ZIP file and extract it.
 Navigate to the Project Directory:
