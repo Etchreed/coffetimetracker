@@ -11,6 +11,11 @@ The Coffee Shop Time Tracker is a simple Python application designed to manage c
 - **Display Current Clients**: View a list of all current clients along with the duration of their stay.
 - **User-Friendly Interface**: Simple command-line interface for easy interaction.
 
+## Output 
+![coffetime](https://github.com/user-attachments/assets/34a40727-1105-4625-8139-233805160c0a)
+
+
+
 ## Installation
 
 To run the Coffee Shop Time Tracker, you need to have Python installed on your machine. You can download Python from [python.org](https://www.python.org/downloads/).
